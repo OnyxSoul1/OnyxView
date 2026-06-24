@@ -1,0 +1,22 @@
+{
+  "name": "OnyxView - Record Gameplay",
+  "short_name": "OnyxView",
+  "description": "PS4, PS5, Xbox, Switch, PC Capture + Recording",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00f0ff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
